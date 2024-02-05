@@ -1,2 +1,2 @@
-# router-practice-page-form-react
-Its a a simple UI page to practice the concepts of router and to see how actually the components are handled when switching from one component to another so that they give us the intuition of having multi-pages. Can come out to be one good practice material
+# learn-react-route
+This is the one of the best way to start your learning journey learn about the react routes with this amazing code. I have tried to make it simple with great learning experience.
